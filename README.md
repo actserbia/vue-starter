@@ -1,6 +1,8 @@
 # vue-app
 
 > A Vue.js project
+All links for pages are defined in routes.js which is located in root of the project.
+Diwanee scss is also added.
 
 ## Build Setup
 
