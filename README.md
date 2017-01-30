@@ -1,8 +1,6 @@
 # vue-app
 
 > A Vue.js project
-All links for pages are defined in routes.js which is located in root of the project.
-Diwanee scss is also added.
 
 ## Build Setup
 
@@ -16,5 +14,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+All links for pages are defined in routes.js which is located in root of the project.
+Diwanee scss is also added.
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
